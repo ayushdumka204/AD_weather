@@ -7,7 +7,7 @@ A simple, responsive weather app built with HTML, CSS, and JavaScript.
 Enter a city to see real-time weather data like temperature, humidity, and conditions using the OpenWeatherMap API.
 
 ## Live Demo
-ad-portfolio-7a9u-qcn45m2ef-aayush-dumkas-projects.vercel.app
+https://ad-portfolio-7a9u-qcn45m2ef-aayush-dumkas-projects.vercel.app/
 
 ## Features
 - Search for any city’s current weather
